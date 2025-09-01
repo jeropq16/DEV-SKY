@@ -13,6 +13,8 @@ This project develops an information system that enables the management, plannin
 - David Estevan Rendon 
 - Juan Pablo Rojas 
 
+## Project Structure
+```
 DevSky/
 ├── backend/
 │   ├── server.js
@@ -40,7 +42,7 @@ DevSky/
 │   ├── diagrama de navegacion 
 │   └──MER
 └── README.md
-
+```
 ## Technologies Used
 - **Backend**: Node.js with Express.js
 - **Database**: MySQL
@@ -81,4 +83,5 @@ DevSky/
 ### Navigation diagram
 
 <img src="Navigation diagram.jpeg" alt="Navigation diagram" />
+
 
