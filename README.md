@@ -3,6 +3,10 @@
 ## Description
 This project develops an information system that enables the management, planning, and control of aircraft maintenance activities, optimizing resources, ensuring operational safety, and facilitating decision-making. This is due to the fact that aeronautical organizations currently face difficulties in maintenance control due to manual and dispersed processes, which generate risks to operational safety, loss of information, planning delays, and a lack of traceability. A technological solution is needed to centralize, organize, and automate aircraft maintenance management.
 
+frontend deployment:
+http://devsky-front.vercel.app/
+
+
 ## Project Information
 **Name**: DevSky
 **Clan**: Lovelace y Hopper
@@ -83,5 +87,6 @@ DevSky/
 ### Navigation diagram
 
 <img src="Navigation diagram.jpeg" alt="Navigation diagram" />
+
 
 
