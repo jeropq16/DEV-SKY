@@ -6,6 +6,9 @@ This project develops an information system that enables the management, plannin
 frontend deployment:
 http://devsky-front.vercel.app/
 
+backend deployment:
+https://devsky-back.vercel.app/
+
 
 ## Project Information
 **Name**: DevSky
@@ -87,6 +90,7 @@ DevSky/
 ### Navigation diagram
 
 <img src="Navigation diagram.jpeg" alt="Navigation diagram" />
+
 
 
 
